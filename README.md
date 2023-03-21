@@ -1,4 +1,4 @@
 # gradio
 demos de gradio para aula
 
-[Clique aqui](https://f2c154ae1c4ee73b0e.gradio.live)
+[Clique aqui](https://ed735107fa78fb1b20.gradio.live)
